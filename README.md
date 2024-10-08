@@ -3,4 +3,4 @@
 This the dami git repo 
 </br>
 
-author: yeamin Rahman
+author: yeamin Rahman Ripty 
